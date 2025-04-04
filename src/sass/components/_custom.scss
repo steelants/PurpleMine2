@@ -13,3 +13,11 @@ label[for="issue_private_notes"],
 .private-notes .note-header{
   background-color: #ffe2c3 !important;
 }
+
+a > svg,
+span > svg,
+legend > svg,
+.icon > svg,
+div > svg {
+  display: none !important;
+}
