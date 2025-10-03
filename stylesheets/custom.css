@@ -10,6 +10,7 @@ label[for="issue_private_notes"],
 }
 
 .private-notes .wiki,
+.private-notes .journal-header,
 .private-notes{
   background-color: #ffe2c3 !important;
 }
