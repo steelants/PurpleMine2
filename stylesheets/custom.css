@@ -14,3 +14,10 @@ label[for="issue_private_notes"],
 .private-notes{
   background-color: #ffe2c3 !important;
 }
+
+#header{
+  background: #614ba6 !important;
+}
+#top-menu{
+  background: #38266b !important;
+}
