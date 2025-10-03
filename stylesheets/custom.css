@@ -1,0 +1,15 @@
+label[for="issue_private_notes"],
+#issue_is_private_label{
+  color: red;
+  font-weight: 700;
+}
+
+#issue_private_notes,
+#issue_is_private{
+  accent-color: red;
+}
+
+.private-notes .wiki,
+.private-notes{
+  background-color: #ffe2c3 !important;
+}
